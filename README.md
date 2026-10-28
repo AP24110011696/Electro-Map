@@ -236,14 +236,6 @@ npm run dev
 
 ---
 
-# 👨‍💻 Author
-
-**Mohan Namburu**
-
-* GitHub: https://github.com/mohannamburu18
-* Mail: mohannamburu1343@gmail.com
-* Linkedin : Mohan Krishna Namburu
-
 ---
 
 # ⭐ Support
